@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "669281651407",
+    "project_id": "ruta-357e8",
+    "storage_bucket": "ruta-357e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669281651407:android:401617e7153d0a398c05ba",
+        "android_client_info": {
+          "package_name": "com.example.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669281651407-fpo8arkfeuq6kfuo0u8nu537l4ajk11d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOk-AoqDoO6XOjl-qPePoc7c2RDxVKXeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669281651407-fpo8arkfeuq6kfuo0u8nu537l4ajk11d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669281651407:android:a68f7bedfd47599e8c05ba",
+        "android_client_info": {
+          "package_name": "com.example.ruta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669281651407-fpo8arkfeuq6kfuo0u8nu537l4ajk11d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOk-AoqDoO6XOjl-qPePoc7c2RDxVKXeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669281651407-fpo8arkfeuq6kfuo0u8nu537l4ajk11d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

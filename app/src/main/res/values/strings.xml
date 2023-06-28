@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="inTilHint">Celular o correo electrónico</string>
+    <string name="inTilHelper">Ingresar datos válidos</string>
+    <string name="inTil1Pass">Contraseña</string>
+    <string name="btnSignInHint">Iniciar sesión</string>
+    <string name="inResetText">¿Olvidaste tu constraseña?</string>
+    <string name="btnSignUpHint">Crear cuenta nueva</string>
+    <string name="upTextHint">Registrarte</string>
+    <string name="upText1Hint">Es rápido y fácil.</string>
+    <string name="upBtn">Registrarte</string>
+    <string name="redirectText">¿Ya tienes una cuenta?</string>
+    <string name="upTil2Hint">Confirmar contraseña</string>
+    <string name="upTil1Hint">Contraseña nueva</string>
+    <string name="toastTextSignIn">Las casillas no pueden estar vacias</string>
+    <string name="toastTextSignUp">Contraseña incorrecta</string>
+    <string name="toastTextSignUp1">Las casillas no pueden estar vacias</string>
+</resources>
